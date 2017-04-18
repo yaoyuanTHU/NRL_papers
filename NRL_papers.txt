@@ -1,25 +1,25 @@
-DeepWalk: Online Learning of Social Representations
+1. DeepWalk: Online Learning of Social Representations
 Bryan Perozzi, Rami Al-Rfou, Steven Skiena.  KDD 2014
 
-GraRep: Learning Graph Representations with Global Structural Information
+2. GraRep: Learning Graph Representations with Global Structural Information
 Shaosheng Cao, Wei Lu, Qiongkai Xu.  CIKM 2015
 
-LINE: Large-scale Information Network Embedding
+3. LINE: Large-scale Information Network Embedding
 Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Me.  WWW 2015
 
-Network Representation Learning with Rich Text Information
+4. Network Representation Learning with Rich Text Information
 Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Y. Chang.  IJCAI 2015
 
-PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks
+5. PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks
 Jian Tang, Meng Qu, Qiaozhu Mei.  KDD 2015
 
-node2vec: Scalable Feature Learning for Networks
+6. node2vec: Scalable Feature Learning for Networks
 Aditya Grover, Jure Leskovec.  KDD 2016
 
-Max-Margin DeepWalk: Discriminative Learning of Network Representation
+7. Max-Margin DeepWalk: Discriminative Learning of Network Representation
 Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.  IJCAI 2016
 
-Structural Deep Network Embedding
+8. Structural Deep Network Embedding
 Daixin Wang, Peng Cui, Wenwu Zhu.  KDD 2016
 
 
