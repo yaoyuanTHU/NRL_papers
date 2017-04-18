@@ -1,11 +1,5 @@
-Max-Margin DeepWalk: Discriminative Learning of Network Representation
-Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.  IJCAI 2016
-
-node2vec: Scalable Feature Learning for Networks
-Aditya Grover, Jure Leskovec.  KDD 2016
-
-Structural Deep Network Embedding
-Daixin Wang, Peng Cui, Wenwu Zhu.  KDD 2016
+DeepWalk: Online Learning of Social Representations
+Bryan Perozzi, Rami Al-Rfou, Steven Skiena.  KDD 2014
 
 GraRep: Learning Graph Representations with Global Structural Information
 Shaosheng Cao, Wei Lu, Qiongkai Xu.  CIKM 2015
@@ -19,6 +13,16 @@ Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Y. Chang.  IJCAI 2015
 PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks
 Jian Tang, Meng Qu, Qiaozhu Mei.  KDD 2015
 
-DeepWalk: Online Learning of Social Representations
-Bryan Perozzi, Rami Al-Rfou, Steven Skiena.  KDD 2014
+node2vec: Scalable Feature Learning for Networks
+Aditya Grover, Jure Leskovec.  KDD 2016
+
+Max-Margin DeepWalk: Discriminative Learning of Network Representation
+Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.  IJCAI 2016
+
+Structural Deep Network Embedding
+Daixin Wang, Peng Cui, Wenwu Zhu.  KDD 2016
+
+
+
+
 
