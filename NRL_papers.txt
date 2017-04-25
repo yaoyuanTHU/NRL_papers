@@ -1,26 +1,40 @@
-1. DeepWalk: Online Learning of Social Representations
+1. Comparing Apples to Oranges: A Scalable Solution with Heterogeneous Hashing
+Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu, Shiqiang Yang.  KDD 2013
+
+2. DeepWalk: Online Learning of Social Representations
 Bryan Perozzi, Rami Al-Rfou, Steven Skiena.  KDD 2014
 
-2. GraRep: Learning Graph Representations with Global Structural Information
+3. Non-transitive Hashing with Latent Similarity Componets.
+Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu.  KDD 2015
+
+4. GraRep: Learning Graph Representations with Global Structural Information
 Shaosheng Cao, Wei Lu, Qiongkai Xu.  CIKM 2015
 
-3. LINE: Large-scale Information Network Embedding
+5. LINE: Large-scale Information Network Embedding
 Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Me.  WWW 2015
 
-4. Network Representation Learning with Rich Text Information
+6. Network Representation Learning with Rich Text Information
 Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Y. Chang.  IJCAI 2015
 
-5. PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks
+7. PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks
 Jian Tang, Meng Qu, Qiaozhu Mei.  KDD 2015
 
-6. node2vec: Scalable Feature Learning for Networks
+8. Asymmetric Transitivity Preserving Graph Embedding.
+Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu.  KDD 2016
+
+9. node2vec: Scalable Feature Learning for Networks
 Aditya Grover, Jure Leskovec.  KDD 2016
 
-7. Max-Margin DeepWalk: Discriminative Learning of Network Representation
+10. Max-Margin DeepWalk: Discriminative Learning of Network Representation
 Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.  IJCAI 2016
 
-8. Structural Deep Network Embedding
+11. Structural Deep Network Embedding
 Daixin Wang, Peng Cui, Wenwu Zhu.  KDD 2016
+
+12. Community Preserving Network Embedding
+X Wang, P Cui, J Wang, J Pei, W Zhu, S Yang.  AAAI 2017
+
+
 
 
 
